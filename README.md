@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Arman Malik</h1>
+<h1 align="center"> Hi, I'm Arman Malik</h1>
 
 <p align="center">
   <b>AI Engineer</b> &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG Systems &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Elasticsearch &nbsp;·&nbsp; Python
 </p>
 
 <p align="center">
-  📍 Islamabad, Pakistan &nbsp;|&nbsp; 🔍 Open to AI Engineer & ML Engineer roles — Remote & Onsite
+  📍 Islamabad, Pakistan &nbsp;|&nbsp; 🔍 Open to AI Engineer & ML Engineer roles; Remote & Onsite
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-3 years building production AI systems — RAG pipelines, multi-agent workflows,
+3 years building production AI systems: RAG pipelines, multi-agent workflows,
 LLM-powered applications, and large-scale search infrastructure.
 
 Previously at **xFlow Research**, where I built retrieval and LLM systems at scale.
@@ -29,9 +29,9 @@ Currently working on personal AI projects and open to new opportunities.
 
 ## 🧠 What I Build
 
-- 🔍 **RAG Systems** — retrieval pipelines, vector stores, embeddings, grounded Q&A
-- 🤖 **Agentic AI** — multi-agent workflows, tool-calling, human-in-the-loop, LangGraph state machines
-- 💬 **LLM Applications** — research assistants, chatbots, text-to-SQL, meeting intelligence
+- 🔍 **RAG Systems**: retrieval pipelines, vector stores, embeddings, grounded Q&A
+- 🤖 **Agentic AI**: multi-agent workflows, tool-calling, human-in-the-loop, LangGraph state machines
+- 💬 **LLM Applications**: research assistants, chatbots, text-to-SQL, meeting intelligence
 - 🔎 **Search Infrastructure** — Elasticsearch ILM, index lifecycle management, large-scale data pipelines
 
 ---
