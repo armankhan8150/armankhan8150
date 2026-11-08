@@ -32,7 +32,7 @@ Currently working on personal AI projects and open to new opportunities.
 - 🔍 **RAG Systems**: retrieval pipelines, vector stores, embeddings, grounded Q&A
 - 🤖 **Agentic AI**: multi-agent workflows, tool-calling, human-in-the-loop, LangGraph state machines
 - 💬 **LLM Applications**: research assistants, chatbots, text-to-SQL, meeting intelligence
-- 🔎 **Search Infrastructure** — Elasticsearch ILM, index lifecycle management, large-scale data pipelines
+- 🔎 **Search Infrastructure**: Elasticsearch ILM, index lifecycle management, large-scale data pipelines
 
 ---
 
