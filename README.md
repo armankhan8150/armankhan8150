@@ -67,12 +67,13 @@ Currently working on personal AI projects and open to new opportunities.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Contributions
 
-| ![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armankhan8150&theme=radical&show_icons=true&hide_border=false) | ![GitHub Streak](https://streak-stats.demolab.com?user=armankhan8150&theme=radical&hide_border=false) |
-|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armankhan8150&theme=radical&layout=compact&hide_border=false) | ![Trophies](https://github-profile-trophy.vercel.app/?username=armankhan8150&theme=radical&no-frame=false&no-bg=true&margin-w=4) |
-
+> Most of my production work (2023–2026) was done in private company
+> repositories and is not reflected in my public contribution graph.
+> My public repos represent personal projects built to demonstrate
+> applied AI engineering skills.
+> 
 ---
 
 <div align="center">
