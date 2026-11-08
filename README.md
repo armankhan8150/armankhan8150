@@ -1,61 +1,69 @@
-# 💫 Arman Malik
+<h1 align="center">👋 Hi, I'm Arman Malik</h1>
 
-🎯 *💡 AI Enthusiast & ML Learner | 🤖 LLMs | 💬 Chatbots | 🔍 ElasticSearch | 🛠 Prompt Engineering | 🗄 SQL*  
-📍 *Pakistan*
+<p align="center">
+  <b>AI Engineer</b> &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG Systems &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Elasticsearch &nbsp;·&nbsp; Python
+</p>
 
+<p align="center">
+  📍 Islamabad, Pakistan &nbsp;|&nbsp; 🔍 Open to AI Engineer & ML Engineer roles — Remote & Onsite
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arman-malik)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/armanmalik0885)
+<p align="center">
+  <a href="https://linkedin.com/in/arman-malik">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:armaankhan8150@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📩 Contact Me
-**Email:** armaankhan8150@gmail.com  
-**Available for:** Collaborations, Projects, Consulting, or just a tech chat 😊
+3 years building production AI systems — RAG pipelines, multi-agent workflows,
+LLM-powered applications, and large-scale search infrastructure.
+
+Previously at **xFlow Research**, where I built retrieval and LLM systems at scale.
+Currently working on personal AI projects and open to new opportunities.
 
 ---
 
-<!-- Snake Game Repo View -->
+## 🧠 What I Build
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+- 🔍 **RAG Systems** — retrieval pipelines, vector stores, embeddings, grounded Q&A
+- 🤖 **Agentic AI** — multi-agent workflows, tool-calling, human-in-the-loop, LangGraph state machines
+- 💬 **LLM Applications** — research assistants, chatbots, text-to-SQL, meeting intelligence
+- 🔎 **Search Infrastructure** — Elasticsearch ILM, index lifecycle management, large-scale data pipelines
 
+---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-### 🧠 AI/ML & Data Science  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
+### 🤖 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### 🌐 Backend & DevOps  
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### ☁️ Cloud & Infrastructure  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white)
-
-### 🗃️ Databases  
+### 🗄 Databases & Search
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white)
 
-### 🛠️ Tools & Libraries  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+### 🐍 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -67,17 +75,15 @@
 
 ---
 
-<!-- ## 🔝 Top Repositories
-
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=armankhan8150&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
--->
-## 🤖 AI Quote  
 
-![AI Quote](https://quotes-github-readme.vercel.app/api?quote=Artificial%20Intelligence%20is%20not%20a%20substitute%20for%20human%20intelligence%3B%20it%20is%20a%20tool%20to%20amplify%20human%20creativity%20and%20ingenuity.&author=Fei-Fei%20Li&type=horizontal&theme=radical)
-
-
-
+<p align="center">
+  <b>📩 Available for collaborations, consulting, or just a tech chat</b><br/>
+  <a href="mailto:armaankhan8150@gmail.com">armaankhan8150@gmail.com</a>
+</p>
 
 <!-- Designed with ❤️ by Arman Malik -->
